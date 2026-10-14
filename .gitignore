@@ -1,0 +1,6 @@
+# Generated and source reference materials stay local; the deployable app is in site/.
+output/
+source-pdfs/
+tmp/
+*.pdf
+.netlify/
